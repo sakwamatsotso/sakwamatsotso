@@ -1,7 +1,8 @@
-body{background-color:green;}
+body{background-color:burlywood;}
 
-img{border-radius:50%;
-    width:400px;
+img{border-radius:0%;
+    width:50px;
+    align-self: center;
 }
 h1{text-align: center;
 font-size: 12;
@@ -9,3 +10,12 @@ font-weight: 200;
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: ivory;
 }
+h2{
+    text-align: left;
+    text-shadow: magenta;
+    color: rgb(157, 122, 255);
+    text-emphasis-color:blue;
+    font-style: italic;}
+p{font-family: sans-serif;}
+ul{line-height: 40px;}
+ol{line-height: 40px;}
